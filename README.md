@@ -1,0 +1,1 @@
+# A responsive and user-friendly Weather Application built using HTML, CSS, and JavaScript. It fetches real-time weather data from a public API and displays temperature, conditions, and icons based on the user's query.
